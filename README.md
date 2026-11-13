@@ -11,8 +11,6 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 **Nexus Mods:** [Classic Archery Aim Controls](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
 
-> Tip: save your final cover/banner image as `assets/cover.png` so it appears above the project description on GitHub.
-
 ## Requirements
 
 - Dragon's Dogma 2
