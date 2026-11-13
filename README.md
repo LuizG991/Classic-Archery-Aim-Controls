@@ -1,6 +1,6 @@
 # Classic Archery Aim Controls
 
-![Classic Archery Aim Controls](cover.png)
+![Classic Archery Aim Controls](cover.jpg)
 
 This mod recreates the classic controller feel for archers and magick archers in Dragon's Dogma 2.
 
@@ -18,8 +18,7 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 ## Installation
 
-1. Copy it into:
-   - `<game folder>/reframework/autorun/`
+1. Copy the script into `<game folder>/reframework/autorun/`.
 2. Launch the game and enable the script through REFramework if necessary.
 
 **Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB/R1), so adjust it to your preference.
@@ -40,11 +39,10 @@ This version is intended for Archer and Magick Archer only and includes optional
 ```text
 Classic-Archery-Aim-Controls/
 ├── README.md
+├── cover.jpg
 ├── modinfo.ini
 ├── readme.txt
-├── reframework/
-│   └── autorun/
-│       └── ClassicAimControls.lua
-└── assets/
-    └── cover.png
+└── reframework/
+    └── autorun/
+        └── ClassicAimControls.lua
 ```
