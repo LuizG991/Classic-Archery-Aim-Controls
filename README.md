@@ -1,5 +1,7 @@
 # Classic Archery Aim Controls
 
+![Classic Archery Aim Controls](assets/cover.png)
+
 This mod recreates the classic controller feel for archers and magick archers in Dragon's Dogma 2.
 
 - Hold LT to aim
@@ -8,6 +10,8 @@ This mod recreates the classic controller feel for archers and magick archers in
 - Works with REFramework and respects the game's input layer
 
 **Nexus Mods:** [Classic Archery Aim Controls](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
+
+> Tip: save your final cover/banner image as `assets/cover.png` so it appears above the project description on GitHub.
 
 ## Requirements
 
@@ -33,10 +37,6 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 This version is intended for Archer and Magick Archer only and includes optional settings for trigger selection, aiming behavior, and debugging via the REFramework UI.
 
-## Screenshot
-
-Add your in-game screenshot to the repository later if you want it displayed here in the main page.
-
 ## Repository structure
 
 ```text
@@ -47,5 +47,6 @@ Classic-Archery-Aim-Controls/
 ├── reframework/
 │   └── autorun/
 │       └── ClassicAimControls.lua
-└── assets/  (optional, for screenshots or banners)
+└── assets/
+    └── cover.png
 ```
