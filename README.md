@@ -7,6 +7,8 @@ This mod recreates the classic controller feel for archers and magick archers in
 - Release LT to cancel the aim without firing
 - Works with REFramework and respects the game's input layer
 
+**Nexus Mods:** [Classic Archery Aim Controls](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
+
 ## Requirements
 
 - Dragon's Dogma 2
@@ -20,6 +22,8 @@ This mod recreates the classic controller feel for archers and magick archers in
    - `<game folder>/reframework/autorun/`
 3. Launch the game and enable the script through REFramework if necessary.
 
+**Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB), so adjust it to your preference.
+
 ## Recommended Controls
 
 - Hold LT = aim
@@ -27,7 +31,7 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 ## Notes
 
-This version is intended for Archer and Magick Archer only and includes optional settings for trigger selection, Aiming behavior, and debugging via the REFramework UI.
+This version is intended for Archer and Magick Archer only and includes optional settings for trigger selection, aiming behavior, and debugging via the REFramework UI.
 
 ## Screenshot
 
