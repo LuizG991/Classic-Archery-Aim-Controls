@@ -24,7 +24,6 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 - Hold LT = aim
 - Press RT = shoot while keeping the aim active
-- Release LT = cancel aim without firing
 
 ## Notes
 
