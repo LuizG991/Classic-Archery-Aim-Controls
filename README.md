@@ -1,6 +1,6 @@
 # Classic Archery Aim Controls
 
-![Classic Archery Aim Controls](/cover.png)
+![Classic Archery Aim Controls](cover.png)
 
 This mod recreates the classic controller feel for archers and magick archers in Dragon's Dogma 2.
 
