@@ -18,13 +18,13 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 ## Installation
 
-1. Place the file below into your game folder:
-   - `reframework/autorun/ClassicAimControls.lua`
-2. Copy it into:
+1. Copy it into:
    - `<game folder>/reframework/autorun/`
-3. Launch the game and enable the script through REFramework if necessary.
+2. Launch the game and enable the script through REFramework if necessary.
 
 **Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB/R1), so adjust it to your preference.
+
+Alternatively, download the .rar file from Nexus and install it using the Fluffy Mod Manager.
 
 ## Recommended Controls
 
