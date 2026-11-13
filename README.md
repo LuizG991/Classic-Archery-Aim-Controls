@@ -20,7 +20,7 @@ This mod recreates the classic controller feel for archers and magick archers in
    - `<game folder>/reframework/autorun/`
 3. Launch the game and enable the script through REFramework if necessary.
 
-## Controls
+## Recommended Controls
 
 - Hold LT = aim
 - Press RT = shoot while keeping the aim active
