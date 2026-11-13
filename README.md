@@ -22,7 +22,7 @@ This mod recreates the classic controller feel for archers and magick archers in
    - `<game folder>/reframework/autorun/`
 3. Launch the game and enable the script through REFramework if necessary.
 
-**Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB), so adjust it to your preference.
+**Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB/R1), so adjust it to your preference.
 
 ## Recommended Controls
 
