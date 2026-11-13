@@ -24,7 +24,7 @@ This mod recreates the classic controller feel for archers and magick archers in
 
 **Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB/R1), so adjust it to your preference.
 
-Alternatively, download the .rar file from Nexus and install it using the Fluffy Mod Manager.
+**Alternatively, download the .rar file from Nexus and install it using the Fluffy Mod Manager.**
 
 ## Recommended Controls
 
