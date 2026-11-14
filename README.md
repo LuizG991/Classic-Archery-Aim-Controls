@@ -21,7 +21,7 @@ This mod recreates the classic controller feel for archers and magick archers in
 1. Copy the script into `<game folder>/reframework/autorun/`.
 2. Launch the game and enable the script through REFramework if necessary.
 
-**Keep in mind:** The button for firing (originally X/Square) without aiming now also fires while aiming (originally RB/R1), so adjust it to your preference.
+**CONTROL INSTRUCTION**: The button for firing (originally X/Square; Name: Light Attack) without aiming now also FIRES while aiming (originally RB/R1; Name: Vocation Action), so adjust it to your preference in the game's control settings. You need to remove the light attack from the X/Square button (I STRONGLY RECOMMEND USING RT/R2) for it to work as intended; by default, the shooting action is also mapped to the "grab" button, so it should work—though this can be disabled in the mod's settings.
 
 **Alternatively, download the .rar file from Nexus and install it using the Fluffy Mod Manager.**
 
