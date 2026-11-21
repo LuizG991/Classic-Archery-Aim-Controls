@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/badge/version-4.13.1-blue.svg)](#)
 [![Game](https://img.shields.io/badge/game-Dragon's%20Dogma%202-red.svg)](#requirements)
 [![REFramework](https://img.shields.io/badge/tool-REFramework-orange.svg)](https://github.com/praydog/REFramework)
+[![Nexus Mods](https://camo.githubusercontent.com/1b13470b273fd814146a809ba9e00a631ba31d8a1d3ff94ec60f2e553f36e2ec/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d6874747073253341253246253246676973742e67697468756275736572636f6e74656e742e636f6d2532467261646a333037253246653961383037333165653233366363363766623030623639386537353230316525324672617725324635323330303734646662316136306662613931376131323332663933383266613563666563356462253246656e64706f696e742e6a736f6e)](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
 
 [Português (Brasil)](#português-brasil)
 
@@ -212,7 +213,7 @@ Please include:
 
 Author: [SEU NOME OU USUÁRIO]
 
-Mod page: [PREENCHER]
+Mod page: [https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
 
 This is an unofficial, fan-made mod and is not affiliated with or endorsed by Capcom. Dragon's Dogma 2 and its trademarks and copyrighted materials are property of Capcom.
 
@@ -430,7 +431,7 @@ Informe:
 
 Autor: [SEU NOME OU USUÁRIO]
 
-Página do mod: [PREENCHER]
+Página do mod: [https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
 
 Este é um mod feito por fã, não oficial, sem ligação com a Capcom. Dragon's Dogma 2 é marca da Capcom e seus materiais protegidos por direitos autorais são propriedade da Capcom.
 
