@@ -211,7 +211,7 @@ Please include:
 
 ## Credits and legal notice
 
-Author: [SEU NOME OU USUÁRIO]
+Author: Luiz Gustavo Bringel Lisboa
 
 Mod page: [https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description](https://www.nexusmods.com/dragonsdogma2/mods/2553?tab=description)
 
